@@ -1,7 +1,7 @@
 # readme.md
 In this lab1, i finally finished 3 parts.
 
-#The first one is calculating in Jupyter Notebook. I assigned the variables w, x, y, and z to the values (1, 11, 121,
+The first one is calculating in Jupyter Notebook. I assigned the variables w, x, y, and z to the values (1, 11, 121,
 1331), respectively and got all the final values:
 The value x+y is 132
 The sum of w and z is 1332
@@ -11,7 +11,7 @@ The quotient of z and x is 121.0
 The product of w, x, y, and z is 1771561
 The sum of a, b, and c is 1772892.0
 
-#In the second part, i used Def() function in pycharm:
+In the second part, i used Def() function in pycharm:
 
 '''
 def method1(name):
