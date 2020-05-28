@@ -1,7 +1,7 @@
 # readme.md
 In this lab1, i finally finished 3 parts.
 
-The first one is calculating in Jupyter Notebook. I assigned the variables w, x, y, and z to the values (1, 11, 121,
+In the first part i have masterd different kinds of calculations in Jupyter Notebook. I assigned the variables w, x, y, and z to the values (1, 11, 121,
 1331), respectively and got all the final values:
 The value x+y is 132
 The sum of w and z is 1332
@@ -27,9 +27,9 @@ Hi Kate
 Hi Tom
 Hi Jerry
 
-It is one successful project.
+It is one successful project. And i am more familiar with this def function.
 
-In the third part, i used the github web submitted all the assignments and wrote this outcome explaination
+In the third part, i learnt the github web which is one very effective method and submitted all the assignments and wrote this outcome explaination.
 
 
 Menghao Xu
